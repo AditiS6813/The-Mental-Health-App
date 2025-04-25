@@ -12,7 +12,7 @@ Planned Feature List:
 - Support links
 
 Source code:
-- is available to clone/download from: https://github.com/AditiS6813/The-Mental-Health-App/blob/main/README.md
+- is available to clone/download from: https://github.com/AditiS6813/The-Mental-Health-App/tree/main
 
 Instructions to view:
 - Download the source code files
